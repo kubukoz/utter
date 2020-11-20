@@ -10,6 +10,8 @@ Correct pronunciations and spellings for the Scala ecosystem.
 
 - Cats / cats. Not CATS, not C.A.T.S.
 - Cats Effect / cats-effect. Not cats-effects, not Cats Effects, and **definitely not** CATS EFFECT.
+- Scalac (the company). Not ScalaC, Not SCALAC. Pronounced: "Scala see" or "Scalak" (both in use).
+- scalac (the compiler). "Scalac" might be allowed. Pronounced: "Scala see".
 
 ## S
 
